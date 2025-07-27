@@ -24,4 +24,4 @@ A detailed report explaining the problem statement, methodology, data analysis, 
 ---
 
 
-In order to view the app, visit this website : https://salarypredictor-ppsfjlh4rzckkddpgqtyhp.streamlit.app/
+In order to view the app, visit this website (You would have to start up the website the first time): https://salarypredictor-ppsfjlh4rzckkddpgqtyhp.streamlit.app/
